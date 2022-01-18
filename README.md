@@ -1,2 +1,2 @@
 # Corona_prediction
-here we predict corona probability  of a person.
+Here we predict how much percantage you infected from corona virus
